@@ -70,33 +70,34 @@ header nav ul li a.active {
 
 @media (max-width: 650px) {
   header {
-      padding: 0 20px;
+    padding: 0 20px;
   }
 
   .menu-toggle {
-      display: block;
+    display: block;
   }
 
   header nav {
-      position: absolute;
-      width: 100%;
-      height: calc(100vh - 50px);
-      background: #333;
-      top: 50px;
-      left: -100%;
-      transition: 0.5s all;
+    position: absolute;
+    width: 100%;
+    height: calc(100vh - 50px);
+    background: #333;
+    top: 50px;
+    left: -100%;
+    transition: 0.5s all;
   }
 
   header nav.active {
-      left: 0;
+    left: 0;
   }
 
   header nav ul {
-      display: block;
-      text-align: center;
+    display: block;
+    text-align: center;
   }
+
   header nav ul li a {
-      border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-      color: rgb(255, 255, 255);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    color: rgb(255, 255, 255);
   }
 }
