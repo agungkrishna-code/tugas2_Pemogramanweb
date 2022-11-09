@@ -102,6 +102,12 @@ header nav ul li a.active {
   }
 }
 
+.slider {
+  height: auto;
+  width: 100%;
+  margin: auto;
+}
+
 /* Dropdown Button */
 .dropbtn {
   background-color: #04AA6D;
