@@ -121,6 +121,7 @@ header nav ul li a.active {
 .dropdown {
   position: relative;
   display: inline-block;
+  font-weight: bold;
 }
 
 /* Dropdown Content (Hidden by Default) */
