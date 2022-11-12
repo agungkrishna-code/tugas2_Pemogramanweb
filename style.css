@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
 body {
   margin: 0;
   padding: 0;
   /* background: url(1.jpg); */
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -106,6 +108,35 @@ header nav ul li a.active {
   height: auto;
   width: 100%;
   margin: auto;
+}
+
+.pic-daftar {
+  border-radius: 5%;
+  float: left;
+}
+
+.text-daftar {
+  float: center;
+  text-align: center;
+}
+
+.info-daftar {
+  float: center;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 20px;
+  color: #5da7db;
+  margin-bottom: 250px;
+}
+
+.btn-daftar {
+
+}
+
+h1 {
+  color: #162fcf;
 }
 
 /* Dropdown Button */
