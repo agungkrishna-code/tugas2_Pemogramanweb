@@ -132,6 +132,15 @@ header nav ul li a.active {
   font-size: x-large;
 }
 
+.video {
+  text-align: center;
+}
+
+.sejarah {
+  text-align: center;
+  justify-content: center;
+}
+
 h1 {
   color: #162fcf;
 }
