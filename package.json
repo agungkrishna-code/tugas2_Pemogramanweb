@@ -1,0 +1,19 @@
+{
+  "name": "tugas2_pemogramanweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agungkrishna-code/tugas2_Pemogramanweb.git"
+  },
+  "author": "agungkrishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agungkrishna-code/tugas2_Pemogramanweb/issues"
+  },
+  "homepage": "https://github.com/agungkrishna-code/tugas2_Pemogramanweb#readme"
+}
