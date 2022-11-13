@@ -1,7 +1,7 @@
 {
   "name": "tugas2_pemogramanweb",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.2.2",
+  "description": "tugas ke 2 pemograman web",
   "main": "index.html",
   "scripts": {
     "test": ""

@@ -160,6 +160,17 @@ header nav ul li a.active {
   padding-top: 120px;
 }
 
+.footer {
+  text-align: center;
+  margin-top: 25px;
+  font-size: large;
+  color: #162fcf;
+}
+
+.mitra {
+  text-align: center;
+}
+
 h1 {
   color: #162fcf;
 }
